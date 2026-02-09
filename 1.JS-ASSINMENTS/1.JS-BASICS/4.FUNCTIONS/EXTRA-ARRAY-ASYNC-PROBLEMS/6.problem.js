@@ -1,0 +1,1 @@
+// Question-6:  WAP to perform read and write operation in a text file in JS.   
