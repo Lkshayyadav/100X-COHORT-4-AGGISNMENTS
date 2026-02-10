@@ -1,0 +1,15 @@
+// Question-2:  Write a function that takes an array of numbers and returns a new array containing only the odd numbers.
+let arr = [1,2,3,4,5];
+function odds(arr){
+    let result = [];
+for (let i = 0; i < arr.length; i++){
+    if(arr[i]%2!==0){
+result.push(arr[i]);
+    }
+    }
+return result;
+}
+            
+
+
+console.log(odds(arr));
