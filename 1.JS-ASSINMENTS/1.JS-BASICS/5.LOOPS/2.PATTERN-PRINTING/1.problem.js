@@ -7,12 +7,26 @@
 // ***
 // ****
 // *****                                                                   
+ 
 
 
-for (let i=1;i<6;i++){
+let n  = 6;
+
+for (let i=1;i<n;i++){
   let start = "";
   for (let j = 1; j <= i; j++){
     start += "*";
   }
   console.log(start);
 }
+
+
+
+for (let i=1;i<n;i++){
+  let start = "";
+  for (let j = 1; j <= i; j++){
+    start += "*";
+   }
+  console.log(start);
+}
+ 

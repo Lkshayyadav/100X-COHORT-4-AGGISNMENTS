@@ -1,0 +1,1 @@
+// Question-2:  Write a function that takes two objects and returns an object containing the common key-value pairs
